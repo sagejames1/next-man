@@ -6,7 +6,7 @@ export default function Page() {
       <CountButton incrementAmount={1}/>
       <CountButton incrementAmount={2} />
       <hr />
-      <a href="https://github.com/sagejames1/reactProject">My Github Repo</a>
+      <a href="https://github.com/sagejames1/next-man">My Github Repo</a>
       <hr />
       <SearchBar />
     </div>
